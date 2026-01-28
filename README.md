@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineering student in Laval University<br>AI\ML and intelligent robotics enthusiast<br>Project manager in CIA Artificial Intelligence Club Laval University<br>Currently working @Mirego<br>Looking for opportunities to learn more about robotics!
+I'm a software engineering student in Laval University<br>AI\ML and robotics enthusiast<br>Project manager in CIA Artificial Intelligence Club Laval University<br>Currently working @Mirego<br>Looking for opportunities to learn more about robotics!
 
 
 ## 🌐 Socials:
